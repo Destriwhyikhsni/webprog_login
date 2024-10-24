@@ -9,7 +9,7 @@
 
 ## TUGAS WEBPROG LOGIN
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Atas nama Destri Wahyu Ikhsani 19231222 kelas 19.3B.05
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
