@@ -9,7 +9,7 @@
 
 ## TUGAS WEBPROG LOGIN
 
-Atas nama Destri Wahyu Ikhsani 19231222 kelas 19.3B.05
+Login registrasi dan pengujian unit
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
